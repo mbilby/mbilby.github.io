@@ -10740,6 +10740,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .masthead .masthead-avatar {
   width: 15rem;
+
 }
 
 @media (min-width: 992px) {
@@ -10873,4 +10874,8 @@ form .row:first-child .floating-label-form-group {
 
 .copyright {
   background-color: #1a252f;
+}
+
+#meuperfil{
+  border-radius: 50px;
 }
